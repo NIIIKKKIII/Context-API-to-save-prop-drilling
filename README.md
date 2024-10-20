@@ -9,3 +9,8 @@ function Count({setCount}){
   </div>
 
 }
+
+
+
+This is why the state management libararies  like recoil come so only the components which needs to re render, re render.
+
